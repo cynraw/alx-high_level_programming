@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-"""class rectangle, just to define it
+"""0-rectangle, task 0 of python more classes
 """
 
 class Rectangle:
